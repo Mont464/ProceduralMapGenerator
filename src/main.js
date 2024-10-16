@@ -4,8 +4,8 @@ let config = {
     render: {
         pixelArt: true  // prevent pixel art from getting blurred when scaled
     },
-    width: 1280,
-    height: 800,
+    width: 3840,
+    height: 2880,
     scene: [Load, MapGenerator]
 }
 
